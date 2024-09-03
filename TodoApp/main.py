@@ -13,6 +13,7 @@ origins = [
     "http://localhost",
     "http://localhost:8080",
     "http://localhost:10000",
+    "https://fastapiapp-kmqo.onrender.com"
 ]
 
 app.add_middleware(
